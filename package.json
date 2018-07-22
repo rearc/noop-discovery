@@ -1,6 +1,6 @@
 {
   "name": "@rearc/noop-discovery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Noop Application Discovery",
   "main": "index.js",
   "scripts": {
